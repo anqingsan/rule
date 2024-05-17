@@ -1,0 +1,8 @@
+# 内容：www.perplexity.ai
+# 数量：2条（这里只添加了两条最基本的域名规则，实际使用时可能需要更多规则）
+
+# 对所有 perplexity.ai 域名下的子域进行分流
+DOMAIN-SUFFIX,perplexity.ai
+
+# 特别对 www.perplexity.ai 域名进行分流
+DOMAIN-SUFFIX,www.perplexity.ai
